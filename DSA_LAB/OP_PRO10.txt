@@ -1,0 +1,228 @@
+<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro10.c 
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro10.c 
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+6
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+9
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+5
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+5
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+2
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+8
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+15
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+24
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+14
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+7
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+8
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+8
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+5
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+1
+Enter element to be inserted:
+2
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+2
+The contents are:
+2
+5
+6
+7
+8
+9
+14
+15
+24
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+3
+The contents are:
+6
+5
+2
+9
+8
+7
+15
+14
+24
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+4
+The contents are:
+2
+5
+7
+8
+14
+24
+15
+9
+6
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+5
+Enter the node to be searched:
+14
+Successful search!!!
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+5
+Enter the node to be searched:
+0
+Unsuccessful search!!!
+Enter
+1. Insert
+2. Inorder
+3. Preorder
+4.Postorder
+5. Search
+6. Exit
+6
+</pre>

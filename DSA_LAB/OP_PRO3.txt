@@ -1,0 +1,279 @@
+<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro3.c
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro3.c
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+3
+The STACK IS UNDERFLOW
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+1
+Enter the Element to be Pushed
+5
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+1
+Enter the Element to be Pushed
+10
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+3
+The Elements in the stack are
+10
+5
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+1
+Enter the Element to be Pushed
+15
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+1
+Enter the Element to be Pushed
+20
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+1
+Enter the Element to be Pushed
+25
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+3
+The Elements in the stack are
+25
+20
+15
+10
+5
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+2
+Element removed is 25
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+3
+The Elements in the stack are
+20
+15
+10
+5
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+2
+Element removed is 20
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+2
+Element removed is 15
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+2
+Element removed is 10
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+3
+The Elements in the stack are
+5
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+1
+Enter the Element to be Pushed
+10
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+1
+Enter the Element to be Pushed
+5
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+3
+The Elements in the stack are
+5
+10
+5
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+4
+A Palindrome
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+3
+The Elements in the stack are
+5
+10
+5
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+2
+Element removed is 5
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+3
+The Elements in the stack are
+10
+5
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+4
+Not a Palindrome
+
+-----------
+Enter Your Choice
+1.PUSH
+2.POP
+3.Display
+4.Palindrome
+5.Exit
+--------
+5
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ 
+</pre>

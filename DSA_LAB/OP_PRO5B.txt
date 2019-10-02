@@ -1,0 +1,48 @@
+<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi PRO5B_man.c 
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc PRO5B_man.c 
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+Enter number of rings:
+3
+Move from A to C
+Move from A to B
+Move from C to B
+Move from A to C
+Move from B to A
+Move from B to C
+Move from A to C
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+Enter number of rings:
+5
+Move from A to C
+Move from A to B
+Move from C to B
+Move from A to C
+Move from B to A
+Move from B to C
+Move from A to C
+Move from A to B
+Move from C to B
+Move from C to A
+Move from B to A
+Move from C to B
+Move from A to C
+Move from A to B
+Move from C to B
+Move from A to C
+Move from B to A
+Move from B to C
+Move from A to C
+Move from B to A
+Move from C to B
+Move from C to A
+Move from B to A
+Move from B to C
+Move from A to C
+Move from A to B
+Move from C to B
+Move from A to C
+Move from B to A
+Move from B to C
+Move from A to C
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ 
+</pre>

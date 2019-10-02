@@ -1,0 +1,152 @@
+<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro8_MAL.c 
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro8_MAL.c 
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+</pre>
+<pre>Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+1
+Enter SSN, Employee name, Department, Designation, Salary,Phone:
+1by002cs
+Hemanth
+cse
+Manager
+50000
+9898989898
+Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+1
+Enter SSN, Employee name, Department, Designation, Salary,Phone:
+1by001cs
+Raj
+cse
+HOD
+75000
+9696959595
+Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+2
+Enter SSN, Employee name, Department, Designation, Salary,Phone:
+1by003cs
+FutureVisionBIE
+tc
+CEO
+150000
+9899998999
+Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+5
+Number of nodes: 3
+Records:
+SSN	NAME	DEPARTMENT	DESIGNATION	SALARY	PHONE
+1by001cs	Raj	cse	HOD	75000.000000	9696959595
+1by002cs	Hemanth	cse	Manager	50000.000000	9898989898
+1by003cs	FutureVisionBIE	tc	CEO	150000.000000	9899998999
+Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+3
+Deleted record:
+1by001cs	Raj	cse	HOD	75000.000000	9696959595
+Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+4
+Deleted record:
+1by003cs	FutureVisionBIE	tc	CEO	150000.000000	9899998999
+Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+5
+Number of nodes: 1
+Records:
+SSN	NAME	DEPARTMENT	DESIGNATION	SALARY	PHONE
+1by002cs	Hemanth	cse	Manager	50000.000000	9898989898
+Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+1
+Enter SSN, Employee name, Department, Designation, Salary,Phone:
+1by001cs
+Raj
+cse
+HOD
+75000
+9899998989
+Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+3
+Deleted record:
+1by001cs	Raj	cse	HOD	75000.000000	9899998989
+Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+5
+Number of nodes: 1
+Records:
+SSN	NAME	DEPARTMENT	DESIGNATION	SALARY	PHONE
+1by002cs	Hemanth	cse	Manager	50000.000000	9898989898
+Enter your choice
+1. Insert at front
+2. Insert at rear
+3.Delete from front
+4. Delete from rear
+5. Display the list
+/*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
+*/6.exit
+6
+</pre>

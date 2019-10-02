@@ -1,0 +1,269 @@
+<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro7.c
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro7.c 
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+1
+ENter USN,Name,Branch,SEM,Phno
+1by002cs
+Hemanth
+cse
+5
+9879879879
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+1
+ENter USN,Name,Branch,SEM,Phno
+1by001cs
+Raj
+cse
+4
+9658969630
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+5
+Number of nodes : 2
+Contents of the List 
+----------
+----------
+USN : 1by001cs
+Name : Raj
+Branch : cse
+Sem : 4
+Phone Number : 9658969630
+----------
+USN : 1by002cs
+Name : Hemanth
+Branch : cse
+Sem : 5
+Phone Number : 9879879879
+----------------
+
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+2
+ENter USN,Name,Branch,SEM,Phno
+1by003cs
+Future
+cse
+8
+9879875656
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+2
+ENter USN,Name,Branch,SEM,Phno
+1by004cs
+VisionBIE
+cse
+8
+9632587410
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+5
+Number of nodes : 4
+Contents of the List 
+----------
+----------
+USN : 1by001cs
+Name : Raj
+Branch : cse
+Sem : 4
+Phone Number : 9658969630
+----------
+USN : 1by002cs
+Name : Hemanth
+Branch : cse
+Sem : 5
+Phone Number : 9879879879
+----------
+USN : 1by003cs
+Name : Future
+Branch : cse
+Sem : 8
+Phone Number : 9879875656
+----------
+USN : 1by004cs
+Name : VisionBIE
+Branch : cse
+Sem : 8
+Phone Number : 9632587410
+----------------
+
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+3
+Deleted record :
+Usn : 1by001cs
+Name : Raj
+Branch : cse
+Semster : 4%
+Phone Number : 9658969630
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+5
+Number of nodes : 3
+Contents of the List 
+----------
+----------
+USN : 1by002cs
+Name : Hemanth
+Branch : cse
+Sem : 5
+Phone Number : 9879879879
+----------
+USN : 1by003cs
+Name : Future
+Branch : cse
+Sem : 8
+Phone Number : 9879875656
+----------
+USN : 1by004cs
+Name : VisionBIE
+Branch : cse
+Sem : 8
+Phone Number : 9632587410
+----------------
+
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+4
+Deleted record is
+USN : 1by004cs
+Name : VisionBIE
+Branch : cse
+Semester : 8
+Phone Number : 9632587410
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+5
+Number of nodes : 2
+Contents of the List 
+----------
+----------
+USN : 1by002cs
+Name : Hemanth
+Branch : cse
+Sem : 5
+Phone Number : 9879879879
+----------
+USN : 1by003cs
+Name : Future
+Branch : cse
+Sem : 8
+Phone Number : 9879875656
+----------------
+
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+3
+Deleted record :
+Usn : 1by002cs
+Name : Hemanth
+Branch : cse
+Semster : 5%
+Phone Number : 9879879879
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+3
+Deleted record :
+Usn : 1by003cs
+Name : Future
+Branch : cse
+Semster : 8%
+Phone Number : 9879875656
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+3
+No node available 
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+4
+List is Empty
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+5
+List is Empty
+Enter your choice
+1.Insert Front
+2.Insert Rear
+3.Delete Front
+4.Delete Rear
+5.Display
+6.exit
+6
+</pre>

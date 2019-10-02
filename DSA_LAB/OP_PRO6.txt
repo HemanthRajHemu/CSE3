@@ -1,0 +1,87 @@
+<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro6A.c
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro6A.c
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: 1
+
+Enter the character / item to be inserted: F
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: 1
+
+Enter the character / item to be inserted: U
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: 1
+
+Enter the character / item to be inserted: T
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: 1
+
+Enter the character / item to be inserted: R
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: E
+
+Enter the character / item to be inserted: 
+Queue is Full
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: 3
+
+Contents of Queue is:
+F	U	T	R	
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: 2
+
+Deleted item is: F
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: 2
+
+Deleted item is: U
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: 3
+
+Contents of Queue is:
+T	R	
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: 1
+
+Enter the character / item to be inserted: E
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter the choice: 4</pre>

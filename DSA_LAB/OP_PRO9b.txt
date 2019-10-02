@@ -1,0 +1,24 @@
+<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro9b.c 
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro9b.c
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+
+1.Create Polynomial 1
+Enter the number of terms : 3
+Enter the Co-ef, px, py, pz : 5 1 2 1
+Enter the Co-ef, px, py, pz : 2 1 1 1
+Enter the Co-ef, px, py, pz : 3 2 2 2
+
+2.Create Polynomial 2
+Enter the number of terms : 4
+Enter the Co-ef, px, py, pz : 2 1 2 1
+Enter the Co-ef, px, py, pz : 3 1 1 2
+Enter the Co-ef, px, py, pz : 4 1 1 1
+Enter the Co-ef, px, py, pz : 5 2 2 2
+
+Polynomial 1 is : +5x^1y^2z^1  +2x^1y^1z^1  +3x^2y^2z^2 
+
+Polynomial 2 is : +2x^1y^2z^1  +3x^1y^1z^2  +4x^1y^1z^1  +5x^2y^2z^2 
+
+Addition of two Polynomial is : +7x^1y^2z^1  +6x^1y^1z^1  +8x^2y^2z^2  +3x^1y^1z^2 
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ 
+</pre>

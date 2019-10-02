@@ -1,0 +1,102 @@
+<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro1.c
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro1.c
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+Enter the size of the array elements
+5
+Enter the Array Elements
+1
+2
+3
+4
+5
+Enter your choice
+1.Display
+2.Insert
+3.delete
+4.Exit
+1
+Elements in the array are as follow
+1
+2
+3
+4
+5
+
+Enter your choice
+1.Display
+2.Insert
+3.delete
+4.Exit
+2
+Enter the element to be inserted
+10
+Enter the Position to be inserted
+1
+Array after Insertion :
+10	1	2	3	4	5	
+Enter your choice
+1.Display
+2.Insert
+3.delete
+4.Exit
+3
+Enter the position for deletion
+2 
+Array after deletion :
+10	2	3	4	5	
+Enter your choice
+1.Display
+2.Insert
+3.delete
+4.Exit
+1
+Elements in the array are as follow
+10
+2
+3
+4
+5
+
+Enter your choice
+1.Display
+2.Insert
+3.delete
+4.Exit
+3
+Enter the position for deletion
+10
+INVALID POSITION
+TRY AGAIN LATER
+Enter your choice
+1.Display
+2.Insert
+3.delete
+4.Exit
+2
+Enter the element to be inserted
+300
+Enter the Position to be inserted
+10
+INVALID POSITION
+TRY AGAIN
+Enter your choice
+1.Display
+2.Insert
+3.delete
+4.Exit
+1
+Elements in the array are as follow
+10
+2
+3
+4
+5
+
+Enter your choice
+1.Display
+2.Insert
+3.delete
+4.Exit
+4
+<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ 
+</pre>
