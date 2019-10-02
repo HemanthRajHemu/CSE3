@@ -1,6 +1,6 @@
-<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro2.c
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro2.c
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ vi pro2.c
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ gcc pro2.c
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ ./a.out
 Enter the String
 FUTURE_VISION_BIE
 Enter the pattern to be searched
@@ -9,4 +9,4 @@ Enter the replacing String with ON
 on
 The new string is:
 FUTURE_VISIon_BIE
-</pre>
+ 

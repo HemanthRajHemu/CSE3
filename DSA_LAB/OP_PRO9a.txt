@@ -1,6 +1,6 @@
-<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro9a.c 
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro9a.c -lm
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ vi pro9a.c 
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ gcc pro9a.c -lm
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ ./a.out
 1. Insert polynomial at end
 2. Display
 3. Evaluate
@@ -72,5 +72,5 @@ Enter Choice= 	2
 3. Evaluate
 4. Exit
 Enter Choice= 	4
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ 
-</pre>
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ 
+ 

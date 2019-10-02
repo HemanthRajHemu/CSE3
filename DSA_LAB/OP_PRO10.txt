@@ -1,6 +1,6 @@
-<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro10.c 
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro10.c 
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ vi pro10.c 
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ gcc pro10.c 
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ ./a.out
 Enter
 1. Insert
 2. Inorder
@@ -225,4 +225,4 @@ Enter
 5. Search
 6. Exit
 6
-</pre>
+ 

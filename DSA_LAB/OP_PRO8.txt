@@ -1,8 +1,8 @@
-<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro8_MAL.c 
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro8_MAL.c 
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
-</pre>
-<pre>Enter your choice
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ vi pro8_MAL.c 
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ gcc pro8_MAL.c 
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ ./a.out
+ 
+ Enter your choice
 1. Insert at front
 2. Insert at rear
 3.Delete from front
@@ -149,4 +149,4 @@ Enter your choice
 /*6. Choose options 1 and 3 or 4 OR 2 and 3 or 4 for demonstration of Deque
 */6.exit
 6
-</pre>
+ 

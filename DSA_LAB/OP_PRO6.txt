@@ -1,6 +1,6 @@
-<pre><font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ vi pro6A.c
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ gcc pro6A.c
-<font color="#EF2929"><b>kbhr@DarkGhost</b></font>:<font color="#729FCF"><b>~/kbhr_files/DONE</b></font>$ ./a.out
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ vi pro6A.c
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ gcc pro6A.c
+ kbhr@DarkGhost : ~/kbhr_files/DONE $ ./a.out
 
 1. Insert
 2. Delete
@@ -84,4 +84,4 @@ Enter the character / item to be inserted: E
 2. Delete
 3. Display
 4. Exit
-Enter the choice: 4</pre>
+Enter the choice: 4 
